@@ -1,0 +1,1 @@
+{"name":"printdoc-api-runner","private":true,"scripts":{"start":"cmd /c mvnw.cmd spring-boot:run","test":"cmd /c mvnw.cmd test","package":"cmd /c mvnw.cmd package"}}
